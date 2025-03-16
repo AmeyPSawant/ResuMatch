@@ -1,7 +1,5 @@
 # **ResuMatch**
 
-![ResuMatch Logo](https://via.placeholder.com/150) <!-- Add a logo if you have one -->
-
 **ResuMatch** is an intelligent resume scoring and matching tool designed to help job seekers optimize their resumes for specific job descriptions. By leveraging **Natural Language Processing (NLP)** and **AI-powered algorithms**, ResuMatch evaluates resumes and provides actionable insights to improve their alignment with job requirements.
 
 ---
